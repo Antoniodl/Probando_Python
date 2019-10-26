@@ -1,4 +1,5 @@
 dato1 = 'Hola Mundo'
+# Ejemplos de uso
 
 print(dato1.upper())
 print(dato1.lower())
