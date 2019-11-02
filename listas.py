@@ -7,4 +7,5 @@ otra_lista = list(range(10))
 print('rojo' in Colores)
 Colores[1]='amarillo'
 
+Colores.len()
 print(Colores)
